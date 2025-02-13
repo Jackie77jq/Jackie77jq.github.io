@@ -47,3 +47,25 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+---
+permalink: /
+title: "About Me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+[professional bio]
+
+## Research Interests
+- [Interest 1:Develop a machine learning model that can predict cloudburst occurrence, aiming to predict within a 6-hour window]
+- [Interest 2:Estimate intensity and potential impact]
+- [Interest 3:Achieve prediction accuracy better than current 50% rates in target locations]
+
+## QMSS Practicum Project
+[The project aims to develop a prototype predictive software system for early warning of cloudbursts in urban areas. The system will analyze multiple data sources to predict the frequency and intensity of  cloudbursts within a 6-hour window, helping improve disaster preparedness for residents and businesses.]
+
+
